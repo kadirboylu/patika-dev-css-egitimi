@@ -7,3 +7,7 @@ Bu repo Kodluyoruz CSS eğitimi kapsamında yapılan çalışmaları içermekted
 
 ---
 
+## **Ödev 1**
+
+- Ödevde, Müzik Dükkanım isimli bir site oluşturulmuştur. Site ana sayfa, hakkımızda ve ürünler sayfalarından oluşmaktadır. HTML'de içeriğin oluşturulmasının ardından görsel düzenlemeler CSS ile tamamlanmıştır.
+- [Ödev 1'e gitmek için tıklayın!](https://github.com/kadirboylu/patika-dev-css-egitimi/tree/main/css-odev-1)
