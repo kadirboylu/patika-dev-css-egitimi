@@ -17,13 +17,14 @@
     width: 315px;
     height: 15px;
 }
-/* --------------- Selection Types --------------- */
+/* --------------- Section Types --------------- */
 .section-types {
     width: 90%;
     margin: auto;
     margin-top: 3px;
     display: flex;
     text-align: center;
+    white-space: nowrap;
 }
 .art-1 {
     background-color: #7ee5da;
