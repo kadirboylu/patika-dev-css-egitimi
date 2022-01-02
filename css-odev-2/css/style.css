@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* --------------- Header --------------- */
+.header {
+    text-align: center;
+}
+/* --------------- Search Area --------------- */
+.section-search {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    background: #eeeeee;
+}
+.input-1 {
+    width: 315px;
+    height: 15px;
+}
+/* --------------- Selection Types --------------- */
+.section-types {
+    width: 90%;
+    margin: auto;
+    margin-top: 3px;
+    display: flex;
+    text-align: center;
+}
+.art-1 {
+    background-color: #7ee5da;
+    padding-top: 15px;
+    flex: 3;
+}
+.art-2 {
+    background-color: #70ccc2;
+    margin-right: 3px;
+    margin-left: 3px;
+    flex: 1;
+    padding: 10px;
+}
+.art-3 {
+    background-color: #62b3aa;
+    flex: 4;
+    padding-top: 10px;
+}
+/* --------------- Footer --------------- */
+.footer{
+    margin-top: 20px;
+    text-align: center;
+}
