@@ -11,3 +11,8 @@ Bu repo Kodluyoruz CSS eğitimi kapsamında yapılan çalışmaları içermekted
 
 - Ödevde, Müzik Dükkanım isimli bir site oluşturulmuştur. Site ana sayfa, hakkımızda ve ürünler sayfalarından oluşmaktadır. HTML'de içeriğin oluşturulmasının ardından görsel düzenlemeler CSS ile tamamlanmıştır.
 - [Ödev 1'e gitmek için tıklayın!](https://github.com/kadirboylu/patika-dev-css-egitimi/tree/main/css-odev-1)
+
+## **Ödev 2**
+
+- Ödevde, 1998 yılına ait Google anasayfasının klonunu yaratmamız istenmiştir.
+- [Ödev 1'e gitmek için tıklayın!](https://github.com/kadirboylu/patika-dev-css-egitimi/tree/main/css-odev-2)
